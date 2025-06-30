@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sri mathi S
+# 👋 Hi, I'm Sri Mathi S
 
 I'm a passionate learner and aspiring software developer from India.  
 I love exploring new technologies, building projects, and collaborating with other developers.
