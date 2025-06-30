@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srimathi S
+# 👋 Hi, I'm Sri mathi S
 
 I'm a passionate learner and aspiring software developer from India.  
 I love exploring new technologies, building projects, and collaborating with other developers.
@@ -14,4 +14,5 @@ I love exploring new technologies, building projects, and collaborating with oth
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 🎮 Gaming | 📚 Reading | ✈ Exploring tech communities
 
-
+## 📊 GitHub Stats (Optional):
+![Sri mathi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Srimathi-Siva&show_icons=true)
